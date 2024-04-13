@@ -1,2 +1,2 @@
 # transformer_variants
-本项目主要针对transformer的变体，采用更浅显易懂的方式，让大家能够看懂
+本项目主要针对transformer的变体，采用更浅显易懂的方式，来深入剖析transformer变体的模型实现细节，以及探究原作者的意图。
